@@ -1,9 +1,9 @@
 # smeltrawblocks-datapack
 Datapack form of smeltrawblocks
 
-Made by adapting code from https://minecraft.fandom.com/wiki/Tutorials/Creating_a_data_pack
+Made by following [this](https://minecraft.fandom.com/wiki/Tutorials/Creating_a_data_pack) tutorial.
 
-Licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Licensed under the [MIT](https://github.com/leservermods/smeltrawblocks-datapack/blob/9/LICENSE) license, except for `pack.ase` and `pack.png`, which are licensed under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
 # Features
 * You can now smelt the iron, gold and copper raw blocks into iron, gold and copper blocks using a furnace and a blast furnace.
