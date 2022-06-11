@@ -1,6 +1,6 @@
 {
     "pack": {
-      "pack_format": 9,
-      "description": "Adds smelting of raw blocks. \n§lRelease Version 1.1.0"
+      "pack_format": 10,
+      "description": "Adds smelting of raw blocks. \n§lRelease Version 2.0.0"
     }
 }
